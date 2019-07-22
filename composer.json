@@ -1,0 +1,14 @@
+{
+    "name": "lightvoldemar/tele2altel-provider-api",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2-httpclient": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Light Voldemar",
+            "email": "light.voldemar@gmail.com"
+        }
+    ]
+}
